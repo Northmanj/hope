@@ -11,11 +11,7 @@ type CartSidebarProps = {
     onClose,
     onRemove,
   }: CartSidebarProps) {
-    const total = cartItems.reduce((sum, item) => {
-      const price = parseFloat(item.price.replace('$', ''));
-      return sum + price * item.quantity;
-    }, 0);
-  
+   
     return (
       <div
         className={`fixed top-0 right-0 h-full w-full sm:w-80 bg-white text-black shadow-lg z-50 transform transition-transform duration-300 ${
