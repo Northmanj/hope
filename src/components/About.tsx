@@ -12,7 +12,7 @@ export default function About() {
           </p>
   
           <p className="mb-6 text-gray-300 text-sm sm:text-base leading-relaxed">
-            With a legacy dating back to 2023, we have proudly operated as importers, exporters, manufacturers,
+           We have proudly operated as importers, exporters,
             distributors, wholesalers, and stockists — serving a broad range of clients across both public and private
             sectors.
           </p>
