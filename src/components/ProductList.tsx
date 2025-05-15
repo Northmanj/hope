@@ -29,7 +29,11 @@ export default function ProductList({ searchQuery, onAddToCart }: ProductListPro
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           {filteredProducts.map((product) => (
-            <ProductCard key={product.id} {...product} onAddToCart={onAddToCart} />
+             <ProductCard
+          key={product.id}
+          {...product}  // This spreads the product details
+          onAddToCart={onAddToCart}  // This passes the onAddToCart function to ProductCard
+        />
           ))}
         </div>
       )}
