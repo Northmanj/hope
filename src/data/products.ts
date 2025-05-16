@@ -46,13 +46,7 @@ export const products = [
     description: "Pure zinc oxide for chemical reactions.",
     image: "/images/zinc.PNG",
   },
-  {
-    id: "7",
-    name: "Hospital bed",
-    category: "Chemicals",
-    description: "",
-    image: "/images/bed1.PNG",
-  },
+ 
   {
     id: "8",
     name: "Hospital",
