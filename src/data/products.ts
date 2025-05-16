@@ -72,7 +72,7 @@ export const products = [
     name: "Hospital",
     category: "equipment",
     description: "",
-    image: "/images/latex.PNG",
+    image: "/images/latext.PNG",
   },
   {
     id: "11",
@@ -93,7 +93,7 @@ export const products = [
     name: "Hospital",
     category: "hospital",
     description: "",
-    image: "/images/stage.2.PNG",
+    image: "/images/stage2.PNG",
   },{
     id: "14",
     name: "Hospital",
