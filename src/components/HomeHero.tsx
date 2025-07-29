@@ -9,9 +9,9 @@ import 'swiper/css/pagination';
 const featuredProducts = [
   {
     id: 1,
-    imageUrl: '/images/sodium chloride.PNG',
-    name: 'Sodium Chloride',
-    description: 'Lab-grade NaCl in sealed container.',
+    imageUrl: '/images/toppan.jpeg',
+    name: 'Electrical Balance',
+    description: 'Modern Instrument for measuring weight .',
   },
   {
     id: 2,
@@ -27,9 +27,9 @@ const featuredProducts = [
   },
   {
     id: 3,
-    imageUrl: '/images/microscope.PNG',
-    name: 'Microscope',
-    description: 'High-precision digital micoscope for lab use.',
+    imageUrl: '/images/coverglass.jpeg',
+    name: 'Microscope Cover Glass',
+    description: 'Precised Microscope Cover Glass.',
   },
   {
     id: 3,
