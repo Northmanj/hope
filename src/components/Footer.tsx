@@ -30,7 +30,7 @@ export default function Footer() {
           </a>
         </div>
       </div>
-      <p className="text-center mt-4 text-sm text-gray-400">© {new Date().getFullYear()} Pinnacle Chems and Laboratory Enterprise. All rights reserved. Designed by <a href="johngregory6400@gmail.com">Northman</a></p>
+      <p className="text-center mt-4 text-sm text-gray-400">© {new Date().getFullYear()} Buri Medical & Laboratory Supplies Enterprise. All rights reserved. Designed by <a href="johngregory6400@gmail.com">Northman</a></p>
     </footer>
   );
 }
