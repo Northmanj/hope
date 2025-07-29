@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="bg-gray-900 text-white p-6 mt-8">
         <div className="flex items-center space-x-3">
         <img src="/images/logo.jpg" alt="Pinnacle Logo" className="w-10 h-10 object-contain" />
-        <h1 className="text-xl font-bold">Pinnacle Chems and Laboratory Enterprise</h1>
+        <h1 className="text-xl font-bold">Buri Medical & School Laboratory Supplies Enterprise</h1>
       </div>
       <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
         <div className="space-x-4">

@@ -27,7 +27,7 @@ export default function Navbar({ onSearch, cartItemCount, onCartClick }: NavbarP
             className="w-10 h-10 object-contain cursor-pointer"
           />
         </Link>
-        <h1 className="text-xl font-bold">Buri Medical & Laboratory Supplies Enterprise</h1>
+        <h1 className="text-xl font-bold">Buri Medical & School Laboratory Supplies Enterprise</h1>
       </div>
 
       {/* Nav Links */}
