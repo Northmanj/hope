@@ -27,7 +27,7 @@ export default function WhatsAppPopup() {
         className="flex items-center gap-2 hover:underline"
       >
         <FaUser className="text-2xl" />
-        <span className="text-sm">Let’s Chat on WhatsApp for more</span>
+        <span className="text-sm">Lets Chat</span>
       </a>
       <button
         onClick={() => setVisible(false)}

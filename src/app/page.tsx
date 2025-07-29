@@ -64,7 +64,7 @@ export default function HomePage() {
           <section id="contact" className="px-4 py-8 sm:px-6 lg:px-8 max-w-2xl mx-auto">
             <h2 className="text-3xl sm:text-4xl font-bold mb-4">Contact Us</h2>
             <p className="text-gray-300 mb-4 text-sm sm:text-base leading-relaxed">
-              📍 +254 Charles Rubia Road, Kibugi House 3rd Floor, Nairobi, Kenya
+              +254 Charles Rubia Road, Kibugi House 3rd Floor, Nairobi, Kenya
               <br /> 📞 +254 703931346 |
             </p>
             <ContactForm />

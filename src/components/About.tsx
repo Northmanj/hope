@@ -3,17 +3,17 @@ export default function About() {
       <section id="about" className="bg-gray-900 text-white py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center">
-            About Pinnacle Chems and Laboratory Enterprise
+            About Buri Medical & Laboratory Supplies Enterprise
           </h2>
   
           <p className="mb-6 text-gray-300 text-sm sm:text-base leading-relaxed">
-            <strong>Pinnacle Chems and Laboratory Enterprise</strong> is a trusted supplier of high-quality chemicals,
+            <strong>Buri Medical & Laboratory Supplies Enterprise</strong> is a trusted supplier of high-quality chemicals,
             laboratory equipment, educational furniture, stationery, and institutional infrastructure across Kenya.
           </p>
   
           <p className="mb-6 text-gray-300 text-sm sm:text-base leading-relaxed">
            We have proudly operated as importers, exporters,
-            distributors, wholesalers, and stockists — serving a broad range of clients across both public and private
+            distributors, wholesalers, and stockists serving a broad range of clients across both public and private
             sectors.
           </p>
   
@@ -24,7 +24,7 @@ export default function About() {
   
           <h3 className="text-xl sm:text-2xl font-semibold mt-10 mb-4">Governance & Compliance</h3>
           <p className="mb-6 text-gray-300 text-sm sm:text-base leading-relaxed">
-            As a key player in institutional supply chains, <strong>Pinnacle Chems</strong> is committed to responsible
+            As a key player in institutional supply chains, <strong>Buri Supplies Enterprise</strong> is committed to responsible
             corporate governance and strict compliance with both local and international regulations.
           </p>
   
@@ -54,7 +54,7 @@ export default function About() {
   
           <h3 className="text-xl sm:text-2xl font-semibold mt-10 mb-4">Vision</h3>
           <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-            To become the region’s leading supplier of premium local and international laboratory brands — offering
+            To become the region's leading supplier of premium local and international laboratory brands — offering
             exceptional value through fair pricing, unmatched variety, and outstanding customer service delivered in a
             modern, professional environment.
           </p>
