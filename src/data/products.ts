@@ -173,3 +173,4 @@ export const products = [
     description: "",
     image: "/images/basketball.jpeg",
   }
+],
